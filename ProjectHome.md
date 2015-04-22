@@ -1,0 +1,1 @@
+A webshop that uses Yii as framework. It supports batch products additions (zip image packs using PECL/Zip extension). It supports only the Paypal cart (paypal buttons) for the moment
